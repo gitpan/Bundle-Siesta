@@ -2,3 +2,4 @@ Siesta.pm
 MANIFEST
 README
 Makefile.PL
+META.yml                                Module meta-data (added by MakeMaker)
